@@ -79,3 +79,16 @@
     transform: rotateX(90deg);
   }
 }
+
+@media (max-width: 1200px) {
+  .stage-cube-container {
+    width: 50%;
+    height: 100%;
+    top: 50%;
+    padding-top: 18%;
+    margin-left: 0;
+    position: absolute;
+    right: 50%;
+    overflow: hidden;
+  }
+}
