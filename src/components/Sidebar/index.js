@@ -1,6 +1,6 @@
 import './index.scss'
 import { Link, NavLink } from 'react-router-dom'
-import LogoS from '../../assets/images/logo-s.png'
+import LogoS from '../../assets/images/DD.png'
 import LogoSub from '../../assets/images/logo_sub.png'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import {
@@ -70,7 +70,7 @@ const Sidebar = () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://www.linkedin.com/in/dmitrij-rudomanov-2538a1220/"
+            href="https://github.com/Dmitri-Rudomanov"
           >
             <FontAwesomeIcon icon={faGithub} color="#4d4d4e" />
           </a>
